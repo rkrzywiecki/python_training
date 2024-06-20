@@ -1,1 +1,1 @@
-# python_training
+# python_training - this repo contains python projects
