@@ -1,0 +1,7 @@
+library(tidyverse)
+library(reshape2)
+library(sqldf)
+library(patchwork)
+draft <- read_csv("C:/Users/rkrzy/Projects/Python/python_training/r-lang/draft.csv")
+dim(draft)
+glimpse(draft)
